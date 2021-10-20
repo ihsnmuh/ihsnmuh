@@ -1,11 +1,11 @@
-<img align='right' src='./img/Ihsan.svg' width="200" />
+<img align='right' src='./img/Ihsan.svg' width="150" />
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Halo! Salam kenal.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Halo! Salam kenal. 👋</h1>
 
-<p>Welcome to my repository! </br> I'm Ihsan, hope to be fullstack developer from 
+<p>Welcome to my repository!</br> I'm Ihsan, hope to be fullstack developer from 
 <img src="./img/indonesia.svg" width="13"> <b>Jakarta, Indonesia</p>
 
-<h3>I work with</h3>
+<h3> 💼 I work with</h3>
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -17,7 +17,7 @@
 <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
 </p>
 
-<h3>familiar with</h3>
+<h3> 💻 Familiar with</h3>
 <p>
   <img alt="ExpressJs" src="https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=black&color=eee" />
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -37,7 +37,7 @@
    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<h3>and exploring</h3>
+<h3> 🔍 Exploring</h3>
 <p>
  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -46,10 +46,12 @@
   <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
 
-<h3>Connect with me</h3>
+<h3> 🚀 Connect with me</h3>
 <p><a href="https://github.com/ihsnmuh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ihsanmuhammad19" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://ihsnmuh.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
 
-<img align='center' alt="WithLove" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<div align="center">
+<img alt="WithLove" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+</div>
