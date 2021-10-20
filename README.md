@@ -1,4 +1,4 @@
-<img align='right' src='./img/ihsan.svg' width="200" />
+<img align='right' src='./img/Ihsan.svg' width="200" />
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Halo! Salam kenal.</h1>
 
@@ -52,4 +52,4 @@
 
 ---
 
-<img alt="WithLove" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img align='center' alt="WithLove" src="https://forthebadge.com/images/badges/built-with-love.svg" />
