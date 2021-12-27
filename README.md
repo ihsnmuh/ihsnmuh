@@ -5,16 +5,17 @@
 <p>Welcome to my repository!</br> I'm Ihsan, hope to be fullstack developer from 
 <img src="./img/indonesia.svg" width="13"> <b>Jakarta, Indonesia</p>
 
-<h3> 💼 I work with</h3>
+<h3>Current Favorite Tech Stack</h3>
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 <!-- <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" /> -->
+<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" /> 
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> -->
 </p>
 
 <!-- <h3> 💻 Familiar with</h3>
@@ -46,6 +47,8 @@
   <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p> -->
 
+---
+
 <h3> 🚀 Connect with me</h3>
 <p>
 <a href="mailto:ihsanmuhaammad@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
@@ -53,8 +56,6 @@
 <a href="https://www.linkedin.com/in/ihsanmuhammad19" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://ihsnmuh.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
----
 
 <div align="center">
 <img alt="WithLove" src="https://forthebadge.com/images/badges/built-with-love.svg" />
