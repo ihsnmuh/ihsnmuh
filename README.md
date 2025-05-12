@@ -2,18 +2,19 @@
 <img alt="TypeScript" src="./img/Ihsan-FD.png" width="100%" />
 </p>
 
-### 💡 About Me
+## 💡 About Me
 
 I'm a graduate of Agricultural Engineering from Bogor Agriculture University who transitioned into web development, focusing on Frontend Development since 2021. Currently working as a Frontend Developer at [Female Daily Network](https://femaledaily.com), I'm passionate about creating excellent user experiences and collaborating effectively with team members.
 
 
-### 👨🏻‍💻 Current Favorite Tech Stack
+## 👨🏻‍💻 Current Favorite Tech Stack
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,react,vue,next,django,tailwind,prisma,postgres,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,django,tailwind,prisma,postgres,docker&theme=light" />
 </p>
 
 ---
-### 📊 My Stats
+## 📊 My Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ihsnmuh&theme=one_dark_pro&include_all_commits=true&count_private=true&layout=compact)
 
@@ -23,7 +24,8 @@ I'm a graduate of Agricultural Engineering from Bogor Agriculture University who
 
 ---
 
-### 🚀 Connect with me
+## 🚀 Connect with me
+
 <p>
 <a href="mailto:me@ihsanmuh.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/ihsanmuhammad19" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
