@@ -1,4 +1,6 @@
-<img alt="TypeScript" src="./img/ihsan-FD.png" />
+<p>
+<img alt="TypeScript" src="./img/ihsan-FD.png" width="100%" />
+</p>
 
 ### 💡 About Me
 
