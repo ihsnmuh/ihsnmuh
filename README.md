@@ -1,5 +1,5 @@
 <p>
-<img alt="TypeScript" src="./img/ihsan-FD.png" width="100%" />
+<img alt="TypeScript" src="./img/Ihsan-FD.png" width="100%" />
 </p>
 
 ### 💡 About Me
