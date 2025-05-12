@@ -1,5 +1,7 @@
 <p>
-<img alt="TypeScript" src="./img/Ihsan-FD.png" width="100%" />
+  <a href="https://ihsanmuh.com" target="_blank">
+    <img alt="TypeScript" src="./img/Ihsan-FD.png" width="100%" />
+  </a>
 </p>
 
 ## 💡 About Me
