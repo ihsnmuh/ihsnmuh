@@ -21,7 +21,7 @@ I'm a graduate of Agricultural Engineering from Bogor Agriculture University who
 
 ### Frontend Development
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,vue,next,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,next&theme=light" />
 </p>
 
 ### Backend Development
