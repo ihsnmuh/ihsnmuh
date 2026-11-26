@@ -8,6 +8,6 @@ I'm a software engineer building fast, maintainable web applications across the 
 - **[Deploy Personal Web Next.js ke VPS dengan Mudah](https://ihsanmuh.com/blog/cara-deploy-personal-web-ke-vps-dengan-mudah)**: Step-by-step guide to deploying a Next.js app on a VPS, from server setup to domain and security.
 - **[Galau Karir dan Cara Gw Menentukan Arah](https://ihsanmuh.com/blog/galau-karier-dan-cara-gw-menentukan-arah)**: Notes on navigating career switches after college and finding direction.
 
-[Website](https://ihsanmuh.com) · [Writing](https://ihsanmuh.com/blog) · [LinkedIn](https://www.linkedin.com/ihsnmuh/) · [Instagram](https://instagram.com/dailyjuniordev) · [me@ihsanmuh.com](mailto:me@ihsanmuh.com)
+[Website](https://ihsanmuh.com) · [Writing](https://ihsanmuh.com/blog) · [LinkedIn](https://www.linkedin.com/in/ihsnmuh/) · [Instagram](https://instagram.com/dailyjuniordev) · [me@ihsanmuh.com](mailto:me@ihsanmuh.com)
 
 <img src="./img/Ihsan.svg" alt="Ihsan" width="36" />
