@@ -1,76 +1,63 @@
-<p>
+<p align="center">
   <a href="https://ihsanmuh.com" target="_blank">
-    <img alt="TypeScript" src="./img/Ihsan-FD.png" width="100%" />
+    <img alt="Hi Everyone! I'm Ihsan, Software Engineer" src="./img/Ihsan-SE.png" width="100%" />
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Frontend+Developer;TypeScript+Enthusiast;React+Developer" alt="Typing SVG" />
-</p> -->
+## About Me
 
-## 💡 About Me
+I'm **Muhammad Ihsan**, an agronomist turned software engineer based in Jakarta with **4+ years of experience** building full-stack web applications across the React and TypeScript ecosystem. I care about fast load times, readable code, and interfaces that stay out of the user's way.
 
-I'm a graduate of Agricultural Engineering from Bogor Agriculture University who transitioned into web development, focusing on Frontend Development since 2021. Currently working as a Frontend Developer at [Female Daily Network](https://femaledaily.com), I'm passionate about creating excellent user experiences and collaborating effectively with team members.
+- Currently working as a Software Engineer at **Bank Rakyat Indonesia (BRI)** on [Universal Biller](https://bri-ub.bri.co.id/), building its internal dashboard, external web portal, and Figma-to-code design system.
+- Previously spent 4 years at **[Female Daily Network](https://femaledaily.com)** maintaining its web platforms and shipping features across editorial, e-commerce, beauty reviews, event ticketing, video streaming, and internal CMS dashboards.
+- Agricultural Engineering graduate from **[IPB University](https://www.ipb.ac.id/)** and **Hacktiv8** Fullstack JavaScript alumni (*Best Individual Project Award*).
 
-## 🛠️ Skills
+## Tech Stack
 
-### Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,redux,nodejs,express,graphql,prisma,postgres,mongodb,redis,docker,vite,figma&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,redux,nodejs,express,graphql,prisma,postgres,mongodb,redis,docker,vite,figma&perline=8&theme=light" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,redux,nodejs,express,graphql,prisma,postgres,mongodb,redis,docker,vite,figma&perline=8&theme=dark" />
+</picture>
+
+**Also working with:** TanStack Query (React Query), RTK Query, Storybook, Jest, Webpack, Nginx, PWA.
+
+## Selected Work
+
+- **[Universal Biller (Bank BRI)](https://bri-ub.bri.co.id/)**: Internal dashboard, external web portal, and reusable component design system.
+- **[Female Daily Website](https://femaledaily.com/)**: Indonesia's beauty community, editorial, and product review platform (`React`, `JavaScript`, `Monorepo`, `Docker`).
+- **[Female Daily Studio](https://studio.femaledaily.com/)**: Dedicated e-commerce retail platform for Female Daily Network (`TypeScript`, `Next.js`, `Monorepo`).
+- **[ihsanmuh.com](https://ihsanmuh.com)** ([Source](https://github.com/ihsnmuh/ihsanmuh)): Personal website and blog built with `Next.js`, `TypeScript`, and `Tailwind CSS`.
+
+## Latest Writing
+
+- [Tidak Takut Kehilangan Dotfiles Lagi dengan GNU Stow!](https://ihsanmuh.com/blog/save-your-dotfiles) *(Feb 2025)*
+- [Deploy Personal Web Next.js ke VPS dengan Mudah](https://ihsanmuh.com/blog/cara-deploy-personal-web-ke-vps-dengan-mudah) *(Dec 2024)*
+- [Galau Karir dan Cara Gw Menentukan Arah](https://ihsanmuh.com/blog/galau-karier-dan-cara-gw-menentukan-arah) *(Dec 2021)*
+
+## GitHub Stats
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=ts,js,py&theme=light" />
+  <img height="165" alt="Ihsan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ihsnmuh&show_icons=true&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsnmuh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-### Frontend Development
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,next&theme=light" />
+  <img alt="Ihsan's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ihsnmuh&theme=one_dark_pro&hide_border=true&count_private=true&layout=compact" />
 </p>
 
-### Backend Development
+## Connect
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,express,nest&theme=light" />
-</p>
-
-### Database & ORM
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=prisma,postgres&theme=light" />
-</p>
-
-### Tools & Others
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=docker,figma,vscode&theme=light" />
-</p>
-
-## 📝 My Blog Posts 
-
-- [Galau Karir dan Cara gw Menetukan Arah](https://ihsanmuh.com/blog/galau-karier-dan-cara-gw-menentukan-arah)
-- [Deploy Personal Web NextJs ke VPS Dengan Mudah](https://ihsanmuh.com/blog/cara-deploy-personal-web-ke-vps-dengan-mudah)
-- [Tidak Takut Kehilangan Dotfiles Lagi dengan GNU Stow!](https://ihsanmuh.com/blog/save-your-dotfiles)
-
-## 🚀 Featured Projects
-
-- [Personal Website](https://ihsanmuh.com) - My personal website built with Next.js and Tailwind CSS
-
-## 📊 My Stats
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihsnmuh&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p> -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ihsnmuh&theme=one_dark_pro&include_all_commits=true&count_private=true&layout=compact)
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=ihsnmuh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ihsnmuh&theme=one_dark_pro&count_private=true&layout=compact)
-
-## 🚀 Connect With Me
-
-<p>
-<a href="mailto:me@ihsanmuh.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/ihsanmuhammad19" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ihsnmuh.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.instagram.com/chernodev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://ihsanmuh.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ihsanmuh.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:me@ihsanmuh.com"><img alt="Email" src="https://img.shields.io/badge/Email-me%40ihsanmuh.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ihsanmuhammad19/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ihsanmuhammad19-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/dailyjuniordev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40dailyjuniordev-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://ihsnmuh.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40ihsnmuh-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsnmuh&label=Profile%20views&color=2E8B57&style=flat" alt="ihsnmuh" />
+  <img src="https://komarev.com/ghpvc/?username=ihsnmuh&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" />
 </p>
